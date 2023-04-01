@@ -9,7 +9,7 @@
     <author>Rody Davis, Norbert Kozsir</author>
     <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
     <itunes:email>rody.davis.jr@gmail.com</itunes:email>
-    <itunes:category text="Technology" />
+    <itunes:category text="Technology" /> 
     <image>
       <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
       <title>Creative Engineering</title>
